@@ -1,0 +1,402 @@
+[
+    {
+        "url": "nuclei.tv", 
+        "image": "", 
+        "name": "[COLOR red]***ANNUAL SUBSCRIPTION: 16 MARCH 2016***[/COLOR]"
+    }, 
+    {
+        "url": "nuclei.tv", 
+        "image": "", 
+        "name": "[COLOR red]***Nuclei.TV Ultimate Sports Pack***[/COLOR]"
+    }, 
+    {
+        "url": "rtmp://167.114.117.208/live/sky1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20 token=WY846p1E1g15W7s", 
+        "image": "", 
+        "name": "SKY SPORTS 1 HD"
+    }, 
+    {
+        "url": "rtmp://167.114.117.208/live/sky2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20 token=WY846p1E1g15W7s", 
+        "image": "", 
+        "name": "SKY SPORTS 2 HD"
+    }, 
+    {
+        "url": "rtmp://167.114.117.208/live/sky3v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20 token=WY846p1E1g15W7s", 
+        "image": "", 
+        "name": "SKY SPORTS 3 HD"
+    }, 
+    {
+        "url": "rtmp://167.114.117.208/live/sky4v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20 token=WY846p1E1g15W7s", 
+        "image": "", 
+        "name": "SKY SPORTS 4 HD"
+    }, 
+    {
+        "url": "rtmp://80.82.64.140:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH", 
+        "image": "", 
+        "name": "SKY SPORTS 5 HD"
+    }, 
+    {
+        "url": "rtmp://178.18.31.56:443/liverepeater playpath=191293  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191293&width=620&height=490 token=#atd%#$ZH", 
+        "image": "", 
+        "name": "SKY SPORTS F1 HD"
+    }, 
+    {
+        "url": "http://198.27.94.105/hls/skysportsnews____0.m3u8", 
+        "image": "", 
+        "name": "SKY SPORTS NEWS HD"
+    }, 
+    {
+        "url": "rtmp://178.18.31.62:443/liverepeater playpath=191271  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191271&width=620&height=490 token=#atd%#$ZH", 
+        "image": "", 
+        "name": "BT SPORTS 1 HD"
+    }, 
+    {
+        "url": "rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co", 
+        "image": "", 
+        "name": "BT SPORTS 2 HD"
+    }, 
+    {
+        "url": "http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?moneysports", 
+        "image": "", 
+        "name": "ESPN HD"
+    }, 
+    {
+        "url": "http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?moneysports", 
+        "image": "", 
+        "name": "ESPN 2"
+    }, 
+    {
+        "url": "http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports", 
+        "image": "", 
+        "name": "ESPN 3"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/1.ts", 
+        "image": "", 
+        "name": "BeinSport 1 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/2.ts", 
+        "image": "", 
+        "name": "BeinSport 2 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/3.ts", 
+        "image": "", 
+        "name": "BeinSport 3 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/4.ts", 
+        "image": "", 
+        "name": "BeinSport 4 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/5.ts", 
+        "image": "", 
+        "name": "BeinSport 5 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/6.ts", 
+        "image": "", 
+        "name": "BeinSport 6 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/7.ts", 
+        "image": "", 
+        "name": "BeinSport 7 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/8.ts", 
+        "image": "", 
+        "name": "BeinSport 8 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/9.ts", 
+        "image": "", 
+        "name": "BeinSport 9 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/10.ts", 
+        "image": "", 
+        "name": "BeinSport 10 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/11.ts", 
+        "image": "", 
+        "name": "BeinSport 11 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/12.ts", 
+        "image": "", 
+        "name": "BeinSport 12 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/13.ts", 
+        "image": "", 
+        "name": "BeinSport 13 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/14.ts", 
+        "image": "", 
+        "name": "BeinSport 14 HD"
+    }, 
+    {
+        "url": "http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/15.ts", 
+        "image": "", 
+        "name": "BeinSport 15 HD"
+    }, 
+    {
+        "url": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8", 
+        "image": "", 
+        "name": "TSN 1 HD"
+    }, 
+    {
+        "url": "http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8", 
+        "image": "", 
+        "name": "TSN 2 HD"
+    }, 
+    {
+        "url": "http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8", 
+        "image": "", 
+        "name": "TSN 3 HD"
+    }, 
+    {
+        "url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8", 
+        "image": "", 
+        "name": "TSN 4 HD"
+    }, 
+    {
+        "url": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8", 
+        "image": "", 
+        "name": "TSN 5 HD"
+    }, 
+    {
+        "url": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8", 
+        "image": "", 
+        "name": "EUROSPORT 1 HD"
+    }, 
+    {
+        "url": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2", 
+        "image": "", 
+        "name": "EUROSPORT 2 HD"
+    }, 
+    {
+        "url": "http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?", 
+        "image": "", 
+        "name": "FOX SPORTS 1"
+    }, 
+    {
+        "url": "http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2", 
+        "image": "", 
+        "name": "MOTORS TV"
+    }, 
+    {
+        "url": "rtmp://167.114.117.208/live/skynationv", 
+        "image": "", 
+        "name": "BOX NATION"
+    }, 
+    {
+        "url": "rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11", 
+        "image": "", 
+        "name": "RACING UK"
+    }, 
+    {
+        "url": "rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/", 
+        "image": "", 
+        "name": "AT THE RACES"
+    }, 
+    {
+        "url": "mmsh://212.162.68.163:80/raisport+", 
+        "image": "", 
+        "name": "RAI SPORTS 1"
+    }, 
+    {
+        "url": "mmsh://212.162.68.163:80/raisport2", 
+        "image": "", 
+        "name": "RAI SPORTS 2"
+    }, 
+    {
+        "url": "rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n274s214y2s2b424w2u2v2t24394&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t254w2q274w203p2t274x2z34303y3p2o5a4j5c574o3o4r4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=Ng==&str=is&ok=&cat=2&link=1&idom=ifirstrow.eu", 
+        "image": "", 
+        "name": "NBA"
+    }, 
+    {
+        "url": "rtmp://31.220.0.195:80/live/ playpath=premiersport token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/", 
+        "image": "", 
+        "name": "PREMIER SPORTS"
+    }, 
+    {
+        "url": "rtmp://80.82.78.29:443/liverepeater playpath=32  swfUrl=http://popeoftheplayers.eu/atdedead.swf  pageUrl=http://popeoftheplayers.eu/player3.php?id=32&width=620&height=490 token=#atd%#$ZH", 
+        "image": "", 
+        "name": "WWE NETWORK"
+    }, 
+    {
+        "url": "rtmp://31.220.0.195:80/live/ playpath=mlbxx token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/", 
+        "image": "", 
+        "name": "MLB"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "ASTRO SUPERSPORT 1"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "ASTRO SUPERSPORT 2"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "SPORTSNET 1"
+    }, 
+    {
+        "url": "http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8", 
+        "image": "", 
+        "name": "SPORTSNET 360"
+    }, 
+    {
+        "url": "rtmp://178.18.31.61:443/liverepeater playpath=190903 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/streamcr.php?id=183055&width=620&height=490 token=#atd%#$ZH", 
+        "image": "", 
+        "name": "SPORTSNET WORLD"
+    }, 
+    {
+        "url": "rtmp://109.123.70.38:80/live/ playpath=sno token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/", 
+        "image": "", 
+        "name": "SPORTSNET ONTARIO"
+    }, 
+    {
+        "url": "http://87.248.160.8/edge/smil:boet/playlist.m3u8", 
+        "image": "", 
+        "name": "MOLDOVA SPORT"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200", 
+        "image": "", 
+        "name": "SPORT TIME 1 HD"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200", 
+        "image": "", 
+        "name": "SPORT TIME 2 HD"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200", 
+        "image": "", 
+        "name": "SPORT TIME 3 HD"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200", 
+        "image": "", 
+        "name": "SPORT TIME 4 HD"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200", 
+        "image": "", 
+        "name": "SPORT TIME 5 HD"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800", 
+        "image": "", 
+        "name": "SPORT TIME 6 HD"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200", 
+        "image": "", 
+        "name": "SPORT TIME 7 HD"
+    }, 
+    {
+        "url": "http://www.xrxs.net/video/live-p12ariz-4728.m3u8", 
+        "image": "", 
+        "name": "PAC 12 Arizona HD"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12ariz-4728.m3u8", 
+        "image": "", 
+        "name": "Pac 12 Arizona HD"
+    }, 
+    {
+        "url": "http://www.xrxs.net/video/live-p12baya-4728.m3u8", 
+        "image": "", 
+        "name": "PAC 12 Bay Area HD"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12baya-2328.m3u8", 
+        "image": "", 
+        "name": "Pac 12 Bay Area"
+    }, 
+    {
+        "url": "http://83.139.104.99/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8", 
+        "image": "", 
+        "name": "EXTREME SPORTS"
+    }, 
+    {
+        "url": "http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8", 
+        "image": "", 
+        "name": "ROSSIYA 2 SPORTS"
+    }, 
+    {
+        "url": "http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/PAZ.m3u8", 
+        "image": "", 
+        "name": "NOVA SPORT"
+    }, 
+    {
+        "url": "http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8", 
+        "image": "", 
+        "name": "AD SPORTS 1 HD (UAE)"
+    }, 
+    {
+        "url": "http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8", 
+        "image": "", 
+        "name": "AD SPORTS 2 HD (UAE)"
+    }, 
+    {
+        "url": "http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8", 
+        "image": "", 
+        "name": "DUBAI RACING (UAE)"
+    }, 
+    {
+        "url": "http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/BratuMarian.m3u8", 
+        "image": "", 
+        "name": "DUBAI RACING 3 (UAE)"
+    }, 
+    {
+        "url": "rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp", 
+        "image": "", 
+        "name": "KTV SPORT EXTRA"
+    }, 
+    {
+        "url": "rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp", 
+        "image": "", 
+        "name": "KTV SPORT PLUS"
+    }, 
+    {
+        "url": "rtmp://alayam.netromedia.net/btv3/btv3", 
+        "image": "", 
+        "name": "BAHRAIN SPORT"
+    }, 
+    {
+        "url": "http://202.75.23.36/live/ch44/03.m3u8", 
+        "image": "", 
+        "name": "SETANTA"
+    }, 
+    {
+        "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8", 
+        "image": "", 
+        "name": "TRT SPOR"
+    }, 
+    {
+        "url": "http://109.200.20.26:8981/starsportsa1/11/index.m3u8", 
+        "image": "", 
+        "name": "STAR SPORTS"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "WILLOW CRICKET HD"
+    }, 
+    {
+        "url": "http://85.8.26.243:8001/1:0:1:12E:3:46:E080000:0:0:0:", 
+        "image": "", 
+        "name": "C MORE SPORTS"
+    }
+]
