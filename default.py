@@ -53,7 +53,7 @@ if  not (os.path.isfile(favoritesFile)):
 	
 def Categories():
 #	repoCheck.UpdateRepo()
-	AddDir("[COLOR red][B]Visit Nuclei.TV [/B][/COLOR]", "Update" ,99 ,"")
+	AddDir("[COLOR red][B]Contact satstream@hotmail.com for subscription [/B][/COLOR]", "Update" ,99 ,"")
 	list = common.ReadList(playlistsFile)
 	for item in list:
 		mode = 1 if item["url"].find(".plx") > 0 else 2
